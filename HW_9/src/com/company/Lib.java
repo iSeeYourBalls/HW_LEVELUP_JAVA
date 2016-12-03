@@ -37,7 +37,6 @@ public class Lib {
 
             String exitWork = scanner.next();
 
-
             if(exitWork != null && exitWork.length() > 0 && !exitWork.equalsIgnoreCase("y")) break;;
         }
     }
